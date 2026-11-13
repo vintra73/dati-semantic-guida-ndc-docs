@@ -340,9 +340,8 @@ L’harvesting delle ontologie considera che le directory che contengono
 ontologie possano essere versionate, non i singoli file. Questo vale
 anche per le sotto-directory.
 
-Attualmente, il Catalogo non prende in considerazione il versionamento
-delle cartelle per schemi dati e vocabolari controllati, ma per le
-ontologie prende in considerazione:
+Il Catalogo prende in considerazione il versionamento
+delle cartelle per le ontologie, schemi dati e vocabolari controllati:
 
 - ``latest/`` se presente;
 
